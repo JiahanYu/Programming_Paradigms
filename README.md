@@ -1,2 +1,2 @@
 # Programming_Paradigms
-school C++ course
+CUHK(SZ) C++ course assignments
